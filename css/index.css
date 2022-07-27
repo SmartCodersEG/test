@@ -5,7 +5,7 @@
   background-color: var(--white);
   display: flex;
   flex-direction: column;
-  height: 100%;
+  height: auto;
   padding: 4.0px 87px;
   width: 100%;
 }
