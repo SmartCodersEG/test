@@ -3,11 +3,10 @@
 .index {
   background-color: var(--white);
   height: auto;
-  position: absolute;
   overflow: hidden;
   overflow-x: hidden;
-/*   position: relative; */
-  width: 80%;
+  position: relative;
+  width: 90%;
 }
 
 .index .group-5-IO3Fu5 {
