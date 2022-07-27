@@ -1,4 +1,21 @@
-:root {
-
-
+:root { 
+  --black: #000000;
+  --lochinvar: #3e8987;
+  --waterloo-: #797598;
+  --white: #ffffff;
+ 
+  --font-size-l: 26px;
+  --font-size-m: 20px;
+  --font-size-s: 18px;
+  --font-size-xl: 29px;
+  --font-size-xs: 15px;
+  --font-size-xxl: 30px;
+  --font-size-xxxl: 32px;
+ 
+  --font-family-arial-bold: "Arial-Bold", Helvetica;
+  --font-family-arial-regular: "Arial-Regular", Helvetica;
+  --font-family-candara: "Candara", Helvetica;
+  --font-family-candara-bold: "Candara-Bold", Helvetica;
+  --font-family-ebrima: "Ebrima", Helvetica;
+  --font-family-ebrima-bold: "Ebrima-Bold", Helvetica;
 }
