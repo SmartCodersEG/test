@@ -1,0 +1,13 @@
+:root { 
+  --waterloo-: #797598;
+  --white: #ffffff;
+ 
+  --font-size-l: 44px;
+  --font-size-m: 40px;
+  --font-size-s: 28px;
+  --font-size-xl: 48px;
+ 
+  --font-family-arial-bold: "Arial-Bold", Helvetica;
+  --font-family-ebrima: "Ebrima", Helvetica;
+  --font-family-ebrima-bold: "Ebrima-Bold", Helvetica;
+}

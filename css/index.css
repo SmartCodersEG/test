@@ -1,0 +1,274 @@
+/* screen - index */
+
+.index {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 1920px;
+  padding: 0 51.0px;
+  width: 1080px;
+}
+
+.index .flex-row {
+  align-items: flex-start;
+  display: flex;
+  height: 329px;
+  margin-left: 3.0px;
+  margin-top: 126px;
+  min-width: 855px;
+}
+
+.index .no-path {
+  border-radius: 58px;
+  display: block;
+  height: 185px;
+  object-fit: cover;
+  opacity: 0;
+  width: 185px;
+}
+
+.index .no-path.animate-enter {
+  animation: animate-enter-frames 0.30s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes animate-enter-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.index .flex-col {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-left: 31px;
+  min-height: 323px;
+  width: 639px;
+}
+
+.index .title {
+  color: #3f888a;
+  font-family: var(--font-family-ebrima);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 48px;
+  min-height: 62px;
+  white-space: nowrap;
+}
+
+.index .span0 {
+  color: #000000;
+  font-family: var(--font-family-ebrima-bold);
+}
+
+.index .span1 {
+  font-family: var(--font-family-ebrima-bold);
+}
+
+.index .the-subway-surfers-w {
+  color: var(--waterloo-);
+  font-family: var(--font-family-arial-bold);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  height: 238px;
+  letter-spacing: 0;
+  line-height: 40px;
+  margin-top: 23px;
+  width: 639px;
+}
+
+.index .install_-btn {
+  cursor: pointer;
+  height: 131px;
+  margin-left: 2.66px;
+  margin-top: 75px;
+  opacity: 0;
+  width: 717px;
+}
+
+.index .install_-btn.animate-enter1 {
+  animation: animate-enter1-frames 0.30s ease 0.00s 1 normal forwards;
+  opacity: 0;
+}
+
+@keyframes animate-enter1-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.index .overlap-group {
+  border-radius: 63px;
+  height: 131px;
+  position: relative;
+}
+
+.index .rectangle-5 {
+  background-color: #6f80f7;
+  border-radius: 63px;
+  box-shadow: 0px 0px 30px #342ee44d;
+  cursor: pointer;
+  height: 131px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+  width: 717px;
+}
+
+.index .rectangle-5:hover {
+  background-color: #3C4DC0
+}
+
+.index .install-app {
+  color: var(--white);
+  font-family: var(--font-family-arial-bold);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  left: 239px;
+  letter-spacing: 0;
+  line-height: 44px;
+  position: absolute;
+  text-align: center;
+  top: 41px;
+  white-space: nowrap;
+}
+
+.index .group-3 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 2.66px;
+  margin-top: 35px;
+  min-width: 717px;
+}
+
+.index .overlap-group1 {
+  border-radius: 63px;
+  height: 131px;
+  position: relative;
+  width: 717px;
+}
+
+.index .rectangle-6 {
+  background-color: #fafafa;
+  border-radius: 63px;
+  box-shadow: 0px 0px 6px #00000029;
+  cursor: pointer;
+  height: 131px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+  width: 717px;
+}
+
+.index .rectangle-6:hover {
+  background-color: #fff
+}
+
+.index .more-apps {
+  color: var(--waterloo-);
+  font-family: var(--font-family-arial-bold);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  left: 239px;
+  letter-spacing: 0;
+  line-height: 44px;
+  position: absolute;
+  text-align: center;
+  top: 41px;
+  white-space: nowrap;
+}
+
+.index .group-container {
+  align-self: flex-end;
+  height: 1022px;
+  margin-top: 71px;
+  position: relative;
+  width: 914px;
+}
+
+.index .group-4 {
+  align-items: flex-end;
+  background-color: var(--white);
+  box-shadow: 0px 0px 40px #0077ff6e;
+  display: flex;
+  height: 1022px;
+  left: 0;
+  min-width: 852px;
+  padding: 0 18px;
+  position: absolute;
+  top: 0;
+}
+
+.index .no-path-copy-4 {
+  border-radius: 75px 75px 0px 0px;
+  display: block;
+  height: 1003px;
+  object-fit: cover;
+  opacity: 0;
+  width: 814px;
+}
+
+.index .no-path-copy-4.animate-enter2 {
+  animation: animate-enter2-frames 0.30s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes animate-enter2-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.index .group-2 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 20px;
+  box-shadow: 0px 0px 10px #0000002e;
+  cursor: pointer;
+  display: flex;
+  height: 117px;
+  left: 520px;
+  min-width: 394px;
+  padding: 40.5px 57.9px;
+  position: absolute;
+  top: 852px;
+  transition: all 0.3s ease;
+}
+
+.index .group-2:hover {
+  filter: blur(10px);
+}
+
+.index .iconly-bold-shield-done {
+  align-self: flex-end;
+  background-image: url(../img/path-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 35px;
+  width: 30px;
+}
+
+.index .privacy-policy {
+  color: var(--waterloo-);
+  font-family: var(--font-family-arial-bold);
+  font-size: var(--font-size-s);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-bottom: 0.18px;
+  margin-left: 11px;
+  min-height: 33px;
+  min-width: 220px;
+  white-space: nowrap;
+}
