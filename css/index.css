@@ -1,0 +1,304 @@
+/* screen - index */
+
+.index {
+  background-color: var(--white);
+  height: auto;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 720px;
+}
+
+.index .group-5-IO3Fu5 {
+  background-color: transparent;
+  height: 381px;
+  left: 146px;
+  position: absolute;
+  top: 86px;
+  width: 397px;
+}
+
+.index .no-path-iE9OFR {
+  background-color: transparent;
+  border-radius: 169px;
+  display: block;
+  height: 181px;
+  left: 107px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  width: 181px;
+}
+
+.index .no-path-iE9OFR.animate-enter {
+  animation: animate-enter-frames 0.30s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes animate-enter-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.index .gamezr-play-iE9OFR {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-leelawadeeui-bold);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 104px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: center;
+  top: 206px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.index .the-subway-surfers-w-iE9OFR {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-arial-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  height: 122px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  overflow: hidden;
+  position: absolute;
+  text-align: center;
+  top: 261px;
+  width: 397px;
+}
+
+.index .install_-btn-IO3Fu5 {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 81px;
+  left: 127px;
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  top: 501px;
+  transition: all 0.2s ease;
+  width: 444px;
+}
+
+.index .install_-btn-IO3Fu5.animate-enter1 {
+  animation: animate-enter1-frames 0.30s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes animate-enter1-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.index .install_-btn-IO3Fu5:hover {
+  background-color: #4351B3
+}
+
+.index .rectangle-5-uoo9mH {
+  background-color: #6f80f7;
+  border-radius: 66px;
+  cursor: pointer;
+  height: 81px;
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 444px;
+}
+
+.index .rectangle-5-uoo9mH:hover {
+  background-color: #3C4DC0
+}
+
+.index .install-app-uoo9mH {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-arial-bold);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 143px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 25px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.index .group-3-IO3Fu5 {
+  background-color: transparent;
+  height: 81px;
+  left: 127px;
+  position: absolute;
+  top: 604px;
+  width: 444px;
+}
+
+.index .rectangle-6-iyzWYA {
+  background-color: #ffed0080;
+  border-radius: 66px;
+  cursor: pointer;
+  height: 81px;
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 444px;
+}
+
+.index .rectangle-6-iyzWYA:hover {
+  background-color: #fff
+}
+
+.index .more-apps-iyzWYA {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-arial-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 147px;
+  letter-spacing: 0.00px;
+  line-height: 31px;
+  position: absolute;
+  text-align: center;
+  top: 26px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.index .group-2-IO3Fu5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 58px;
+  left: 264px;
+  pointer-events: auto;
+  position: absolute;
+  top: 1087px;
+  transition: all 0.4s ease;
+  width: 193px;
+}
+
+.index .group-2-IO3Fu5:hover {
+  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+
+.index .rectangle-7-CDExF9 {
+  background-color: var(--white);
+  border-radius: 20px;
+  box-shadow: 0px 0px 10px #0000002e;
+  height: 58px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 193px;
+}
+
+.index .group-1-CDExF9 {
+  background-color: transparent;
+  height: 18px;
+  left: 28px;
+  position: absolute;
+  top: 20px;
+  width: 123px;
+}
+
+.index .privacy-policy-Af2kRG {
+  background-color: transparent;
+  color: #797598;
+  font-family: var(--font-family-arial-bold);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 20px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.index .iconly-bold-shield-done-Af2kRG {
+  background-color: transparent;
+  height: 17px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 15px;
+}
+
+.index .shield-done-tYULP2 {
+  background-color: transparent;
+  height: 17px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 15px;
+}
+
+.index .path-2-mxMwsL {
+  background-color: transparent;
+  height: 17px;
+  left: -0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 15px;
+}
+
+.index .group-4-IO3Fu5 {
+  background-color: transparent;
+  height: 344px;
+  left: 85px;
+  position: absolute;
+  top: 721px;
+  width: 550px;
+}
+
+.index .rectangle-8-xlggqe {
+  background-color: transparent;
+  border-radius: 65px;
+  height: 362px;
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: -9px;
+  width: 276px;
+}
+
+.index .rectangle-9-xlggqe {
+  background-color: transparent;
+  border-radius: 65px;
+  height: 362px;
+  left: 283px;
+  object-fit: cover;
+  position: absolute;
+  top: -9px;
+  width: 276px;
+}
