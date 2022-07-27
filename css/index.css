@@ -2,7 +2,8 @@
 
 .index {
   background-color: var(--white);
-  height: auto;
+  height: 1920;
+  position: relative;
   overflow: hidden;
   overflow-x: hidden;
   position: relative;
