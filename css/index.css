@@ -2,12 +2,12 @@
 
 .index {
   background-color: var(--white);
-  height: 1230;
-  position: relative;
+  height: auto;
+  position: absolute;
   overflow: hidden;
   overflow-x: hidden;
   position: relative;
-  width: 720px;
+  width: 100%;
 }
 
 .index .group-5-IO3Fu5 {
