@@ -1,13 +1,14 @@
 :root { 
-  --waterloo-: #797598;
+  --black: #000000;
   --white: #ffffff;
  
-  --font-size-l: 44px;
+  --font-size-l: 46px;
   --font-size-m: 40px;
   --font-size-s: 28px;
-  --font-size-xl: 48px;
+  --font-size-xl: 50px;
  
   --font-family-arial-bold: "Arial-Bold", Helvetica;
-  --font-family-ebrima: "Ebrima", Helvetica;
-  --font-family-ebrima-bold: "Ebrima-Bold", Helvetica;
+  --font-family-arial-regular: "Arial-Regular", Helvetica;
+  --font-family-leelawadee_ui: "Leelawadee UI", Helvetica;
+  --font-family-leelawadeeui-bold: "LeelawadeeUI-Bold", Helvetica;
 }
