@@ -5,9 +5,9 @@
   background-color: var(--white);
   display: flex;
   flex-direction: column;
-  height: 1920px;
+  height: auto;
   padding: 0 51.0px;
-  width: 1080px;
+  width: 100%;
 }
 
 .index .flex-row {
