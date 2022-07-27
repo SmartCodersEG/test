@@ -1,3 +1,13 @@
+/* screen - 122223 */
+
+.x122223 {
+  background-color: #3a7d7b;
+  height: 1920px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1080px;
+}
 /* screen - mobile-1230-all-breakpoints */
 
 .mobile-1230-all-breakpoints {
@@ -95,13 +105,13 @@
   width: 114px;
 }
 
-.mobile-1230-all-breakpoints .no-path-QRDi3J.bp2-animate-enter {
-  animation: bp2-animate-enter-frames 0.30s ease 0.00s 1 normal forwards;
+.mobile-1230-all-breakpoints .no-path-QRDi3J.bp1-animate-enter {
+  animation: bp1-animate-enter-frames 0.30s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter-frames {
+@keyframes bp1-animate-enter-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -165,13 +175,13 @@ to{opacity: 1;
   width: 302px;
 }
 
-.mobile-1230-all-breakpoints .install_-btn-QRDi3J.bp2-animate-enter1 {
-  animation: bp2-animate-enter1-frames 0.30s ease 0.00s 1 normal forwards;
+.mobile-1230-all-breakpoints .install_-btn-QRDi3J.bp1-animate-enter1 {
+  animation: bp1-animate-enter1-frames 0.30s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp2-animate-enter1-frames {
+@keyframes bp1-animate-enter1-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -364,13 +374,13 @@ to{opacity: 1;
   width: 776px;
 }
 
-.mobile-720x1280 .rectangle-8-1UpSUc.bp1-animate-enter {
-  animation: bp1-animate-enter-frames 0.30s ease 0.00s 1 normal forwards;
+.mobile-720x1280 .rectangle-8-1UpSUc.bp2-animate-enter {
+  animation: bp2-animate-enter-frames 0.30s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter-frames {
+@keyframes bp2-animate-enter-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -390,13 +400,13 @@ to{opacity: 1;
   width: 994px;
 }
 
-.mobile-720x1280 .rectangle-1-1UpSUc.bp1-animate-enter1 {
-  animation: bp1-animate-enter1-frames 0.30s ease 0.00s 1 normal forwards;
+.mobile-720x1280 .rectangle-1-1UpSUc.bp2-animate-enter1 {
+  animation: bp2-animate-enter1-frames 0.30s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter1-frames {
+@keyframes bp2-animate-enter1-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -416,13 +426,13 @@ to{opacity: 1;
   width: 115px;
 }
 
-.mobile-720x1280 .no-path-1UpSUc.bp1-animate-enter2 {
-  animation: bp1-animate-enter2-frames 0.30s ease 0.00s 1 normal forwards;
+.mobile-720x1280 .no-path-1UpSUc.bp2-animate-enter2 {
+  animation: bp2-animate-enter2-frames 0.30s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter2-frames {
+@keyframes bp2-animate-enter2-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -487,13 +497,13 @@ to{opacity: 1;
   width: 447px;
 }
 
-.mobile-720x1280 .install_-btn-1UpSUc.bp1-animate-enter3 {
-  animation: bp1-animate-enter3-frames 0.30s ease 0.00s 1 normal forwards;
+.mobile-720x1280 .install_-btn-1UpSUc.bp2-animate-enter3 {
+  animation: bp2-animate-enter3-frames 0.30s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter3-frames {
+@keyframes bp2-animate-enter3-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -614,13 +624,13 @@ to{opacity: 1;
   width: 534px;
 }
 
-.mobile-720x1280 .no-path-copy-4-bcxYpg.bp1-animate-enter4 {
-  animation: bp1-animate-enter4-frames 0.30s ease 0.00s 1 normal forwards;
+.mobile-720x1280 .no-path-copy-4-bcxYpg.bp2-animate-enter4 {
+  animation: bp2-animate-enter4-frames 0.30s ease 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes bp1-animate-enter4-frames {
+@keyframes bp2-animate-enter4-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -708,12 +718,26 @@ to{opacity: 1;
   top: 0px;
   width: 19px;
 }
-@media screen and (max-width: 1279px) {
+@media screen and (max-width: 1079px) {
   .screen.mobile-1230-all-breakpoints { 
+    display: none;
+   }
+  .screen.x122223 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1080px) and (max-width: 1279px) {
+  .screen.mobile-1230-all-breakpoints { 
+    display: none;
+   }
+  .screen.mobile-720x1280 { 
     display: none;
    }
 }
 @media screen and (min-width: 1280px) {
+  .screen.x122223 { 
+    display: none;
+   }
   .screen.mobile-720x1280 { 
     display: none;
    }
