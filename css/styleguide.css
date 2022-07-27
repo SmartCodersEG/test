@@ -1,0 +1,15 @@
+:root { 
+  --black: #000000;
+  --white: #ffffff;
+ 
+  --font-size-l: 46px;
+  --font-size-m: 40px;
+  --font-size-s: 28px;
+  --font-size-xl: 50px;
+ 
+  --font-family-arial-bold: "Arial-Bold", Helvetica;
+  --font-family-arial-regular: "Arial-Regular", Helvetica;
+  --font-family-leelawadeeui-bold: "LeelawadeeUI-Bold", Helvetica;
+}
+:root {
+}
