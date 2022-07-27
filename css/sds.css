@@ -1,0 +1,35 @@
+/* screen - sds */
+
+.sds {
+  align-items: flex-start;
+  background-color: #ffffff;
+  display: flex;
+  height: 2340px;
+  padding: 25px 38px;
+  width: 1080px;
+}
+
+.sds .overlap-group {
+  align-items: flex-end;
+  background-color: #eeeeee;
+  border: 1px solid #707070;
+  display: flex;
+  height: 2274px;
+  justify-content: flex-end;
+  min-width: 994px;
+  padding: 884px 247px;
+}
+
+.sds .ellipse-1 {
+  background-color: #8f3f3f;
+  border: 1px solid #707070;
+  border-radius: 245.5px;
+  cursor: pointer;
+  height: 491px;
+  transition: all 0.9s ease;
+  width: 491px;
+}
+
+.sds .ellipse-1:hover {
+  transform: scale(0.9); 
+}
