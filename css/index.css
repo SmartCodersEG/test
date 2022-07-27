@@ -2,7 +2,7 @@
 
 .index {
   align-items: center;
-  background-color: var(--white);
+  background-color: var(--black);
   display: flex;
   flex-direction: column;
   height: auto;
