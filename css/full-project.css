@@ -1,0 +1,342 @@
+/* screen - full-project */
+
+.full-project {
+  background-color: var(--white);
+  height: 720px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1280px;
+}
+
+.full-project .group-6-KqxCzi {
+  background-color: transparent;
+  height: 687px;
+  left: 663px;
+  position: absolute;
+  top: 166px;
+  width: 386px;
+}
+
+.full-project .rectangle-9-cuX7uX {
+  background-color: var(--white);
+  border: 2px solid var(--white);
+  border-radius: 70px;
+  box-shadow: 0px 0px 20px #11d17d85;
+  height: 687px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 386px;
+}
+
+.full-project .no-path-copy-7-cuX7uX {
+  background-color: transparent;
+  border-radius: 58px;
+  height: 659px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 371px;
+}
+
+.full-project .group-7-KqxCzi {
+  background-color: transparent;
+  height: 687px;
+  left: 799px;
+  position: absolute;
+  top: 94px;
+  width: 386px;
+}
+
+.full-project .rectangle-9-xiysFz {
+  background-color: var(--white);
+  border: 2px solid var(--white);
+  border-radius: 55px;
+  box-shadow: 0px 0px 20px #11d17d85;
+  height: 687px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 386px;
+}
+
+.full-project .no-path-copy-6-xiysFz {
+  background-color: transparent;
+  border-radius: 50px;
+  height: 654px;
+  left: 9px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 368px;
+}
+
+.full-project .group-9-KqxCzi {
+  background-color: transparent;
+  height: 468px;
+  left: 95px;
+  position: absolute;
+  top: 126px;
+  width: 511px;
+}
+
+.full-project .no-path-oArcax {
+  background-color: transparent;
+  border-radius: 110px;
+  display: block;
+  height: 115px;
+  left: 196px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  width: 114px;
+}
+
+.full-project .no-path-oArcax.bp1-animate-enter {
+  animation: bp1-animate-enter-frames 0.30s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.full-project .gamezr-play-online-oArcax {
+  background-color: transparent;
+  color: var(--lochinvar);
+  font-family: var(--font-family-candara);
+  font-size: var(--font-size-s);
+  font-weight: 700;
+  height: auto;
+  left: 140px;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  position: absolute;
+  text-align: left;
+  top: 148px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.full-project .span0-nbDsDn {
+  color: var(--black);
+  font-family: var(--font-family-candara-bold);
+  font-style: normal;
+}
+
+.full-project .span1-nbDsDn {
+  font-family: var(--font-family-candara-bold);
+  font-style: normal;
+}
+
+.full-project .the-subway-surfers-w-oArcax {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-arial-regular);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+  height: 90px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 207px;
+  width: 511px;
+}
+
+.full-project .install_-btn-oArcax {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 61px;
+  left: 103px;
+  opacity: 0;
+  position: absolute;
+  top: 325px;
+  width: 302px;
+}
+
+.full-project .install_-btn-oArcax.bp1-animate-enter1 {
+  animation: bp1-animate-enter1-frames 0.30s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter1-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.full-project .rectangle-5-IIv3Q6 {
+  background-color: var(--lochinvar);
+  border-radius: 31px;
+  box-shadow: 0px 0px 30px #27c07966;
+  cursor: pointer;
+  height: 61px;
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 302px;
+}
+
+.full-project .rectangle-5-IIv3Q6:hover {
+  background-color: #3C4DC0
+}
+
+.full-project .install-app-IIv3Q6 {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-arial-bold);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 105px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.full-project .group-5-oArcax {
+  background-color: transparent;
+  height: 61px;
+  left: 103px;
+  position: absolute;
+  top: 407px;
+  width: 302px;
+}
+
+.full-project .rectangle-6-cqq0z6 {
+  background-color: #fafafa;
+  border-radius: 63px;
+  box-shadow: 0px 0px 6px #00000029;
+  cursor: pointer;
+  height: 61px;
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 302px;
+}
+
+.full-project .rectangle-6-cqq0z6:hover {
+  background-color: #fff
+}
+
+.full-project .more-apps-cqq0z6 {
+  background-color: transparent;
+  color: #463e89;
+  font-family: var(--font-family-arial-bold);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 105px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.full-project .group-8-KqxCzi {
+  background-color: transparent;
+  cursor: pointer;
+  height: 60px;
+  left: 1041px;
+  pointer-events: auto;
+  position: absolute;
+  top: 627px;
+  transition: all 0.3s ease;
+  width: 202px;
+}
+
+.full-project .group-8-KqxCzi:hover {
+  filter: blur(10px);
+}
+
+.full-project .rectangle-7-MjVdjx {
+  background-color: var(--white);
+  border-radius: 4px;
+  box-shadow: 0px 0px 20px #0000ff40;
+  height: 60px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 202px;
+}
+
+.full-project .group-1-MjVdjx {
+  background-color: transparent;
+  height: 20px;
+  left: 31px;
+  position: absolute;
+  top: 20px;
+  width: 142px;
+}
+
+.full-project .privacy-policy-xJR2GJ {
+  background-color: transparent;
+  color: #463e89;
+  font-family: var(--font-family-arial-bold);
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 3px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.full-project .iconly-bold-shield-done-xJR2GJ {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.full-project .shield-done-8Q7bTx {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 17px;
+}
+
+.full-project .path-2-cTdJ62 {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
