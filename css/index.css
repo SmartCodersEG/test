@@ -2,11 +2,11 @@
 
 .index {
   background-color: var(--white);
-  height: 1920px;
+  height: auto;
   overflow: hidden;
   overflow-x: hidden;
   position: relative;
-  width: 1080px;
+  width: 100%;
 }
 
 .index .no-path-IO3Fu5 {
